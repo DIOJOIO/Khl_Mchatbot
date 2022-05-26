@@ -1,2 +1,3 @@
 # Khl_Mchatbot
-Minecraft and khl chat bot
+这是一个开黑啦和我的世界服务器联通的bot
+开发ing
