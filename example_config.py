@@ -5,3 +5,5 @@ mc_server = (
     'bot',  # ID
     '1.18.1'  # 版本
 )
+bot_channel = ''
+
